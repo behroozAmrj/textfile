@@ -1,4 +1,4 @@
-function getName(){
+function getName(msg){
     return 'Hello world!';
 
 }
